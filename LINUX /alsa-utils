@@ -1,0 +1,7 @@
+*alsa-utils
+-amixer
+-alsamixer
+-amidi
+-aplay
+-aplaymidi
+-aconnect
