@@ -44,7 +44,7 @@ git pull
 ```
 * Vincular repositório local com um repositório remoto
 ```
-git remote add origin git@github.com:tomdelonge/curso-git.git
+git remote add origin git@github.com:01101-kairo/Templats.git
 ```
 * Listar branches
 ```
@@ -52,5 +52,5 @@ git branch
 ```
 * Clonar um repositório remoto já existente
 ```
-git clone git@github.com:tomdelonge/curso-git.git
+git clone git@github.com:01101-kairo/Templats.git
 ```
