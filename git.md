@@ -20,7 +20,7 @@ git config --list
 .gitignore
 adicionar nome de arquivos que nao quero no meu git
 ```
-## Comandos + usados no Github
+## Comandos + usados no Git
 ### Repositório Local
 > Vincular repositório local com um repositório remoto
 ```
