@@ -1,30 +1,29 @@
 Cheatsheet Markdown
 ===================
 
-- - - - 
-# Cabeçallho 1 #
+# Cabeçallho 1
 
-    Marcação: # Título 1 #
+    Marcação: # Título 1
 
     -OU-
 
     Marcação: ============= (abaixo do texto H1)
 
-## Título 2 ##
+## Título 2
 
-    Marcação: ## Heading 2 ##
+    Marcação: ## Heading 2
 
     -OU-
 
     Marcação: --------------- (abaixo do texto H2)
 
-### Título 3 ###
+### Título 3
 
-    Marcação: ### Título 3 ###
+    Marcação: ### Título 3
 
-#### Título 4 ####
+#### Título 4
 
-    Marcação: #### Título 4 ####
+    Marcação: #### Título 4
 
 
 Texto comum
@@ -35,7 +34,7 @@ _Texto enfatizado_
 
     Marcação: _ texto enfatizado_ ou * texto enfatizado *
 
-~~ Texto tachado ~~
+~~Texto tachado~~
 
     Marcação: ~~ Texto tachado ~~
 
@@ -62,7 +61,6 @@ Primeiro cabeçalho | Segundo cabeçalho
 Célula de Conteúdo | Célula de Conteúdo
 Célula de Conteúdo | Célula de Conteúdo
 
-`` ``
 Primeiro cabeçalho | Segundo cabeçalho
 ------------- | -------------
 Célula de Conteúdo | Célula de Conteúdo
