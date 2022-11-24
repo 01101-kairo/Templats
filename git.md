@@ -1,7 +1,9 @@
-# Github
->working directory
->staging area
->git directory
+# Git
+```
+working directory
+staging area
+git directory
+```
 ## configurações Gerais
 > setar usuário
 ```
